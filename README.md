@@ -1,5 +1,5 @@
 
-# [App Title]
+# [FlashCardApp]
 - **Developer**: [Lujia Xiao]
 - **Student Number**: [ST10484117]
 - **Group**: [Group 2]
