@@ -89,7 +89,9 @@ A video showcasing the app's functionality can be viewed here: [https://youtu.be
 
 ## References
 
-1. [Reference 1:  ]
+1. [Reference 1: Student Manual Available through the Independent Institute of Education website. Available at: https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/IIE%20Student%20Materials/New%20Student%20Materials%20CAT/IMAD5112/2025/Term%201/IMAD5112_MM.docx?d=wa1ff62f08e1a47bc99bdca07ae24427d&csf=1&web=1&e=WICLdb
+[Accessed 5 May 2025] 
+  ]
 
 
 ---
